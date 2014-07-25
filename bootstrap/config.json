@@ -1,0 +1,24 @@
+{
+  "vars": {},
+  "css": [
+    "type.less",
+    "tables.less",
+    "forms.less",
+    "buttons.less",
+    "modals.less",
+    "utilities.less",
+    "responsive-utilities.less"
+  ],
+  "js": [
+    "carousel.js",
+    "dropdown.js",
+    "modal.js",
+    "tooltip.js",
+    "popover.js",
+    "tab.js",
+    "affix.js",
+    "collapse.js",
+    "scrollspy.js",
+    "transition.js"
+  ]
+}
